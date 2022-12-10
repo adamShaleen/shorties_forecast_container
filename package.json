@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/adamShaleen/shorties_forecast_container#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sync-request": "^6.1.0"
   }
 }
